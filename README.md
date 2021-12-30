@@ -1,2 +1,2 @@
 # Visio-Stencils
-Repo for user submitted stencils
+Repo for user submitted stencils.
