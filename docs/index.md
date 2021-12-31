@@ -6,7 +6,11 @@ Yet another site offering shapes and stencils for Microsoft Visio.
 - [Visio Cafe](http://www.visiocafe.com/)
 - ...
 
+
+
 ## Shapes by topic
 
 ### Charts
 
+## Missing something?
+[Wish list](docs/wish_list.md)
