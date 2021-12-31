@@ -13,4 +13,4 @@ Yet another site offering shapes and stencils for Microsoft Visio.
 ### Charts
 
 ## Missing something?
-[Wish list](docs/wish_list.md)
+[Wish list](wish_list.md)
