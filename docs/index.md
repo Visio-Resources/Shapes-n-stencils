@@ -9,6 +9,7 @@ This project builds on the ideas raised in the topic [Sharing space for Visio Sh
 ## Other Resources
 
 - [Visio Cafe](http://www.visiocafe.com/)
+- [Shape Source](https://www.shapesource.com/)
 - ...
 
 
