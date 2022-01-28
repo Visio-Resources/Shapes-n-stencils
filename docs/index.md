@@ -10,6 +10,9 @@ This project builds on the ideas raised in the topic [Sharing space for Visio Sh
 
 - [Visio Cafe](http://www.visiocafe.com/)
 - [Shape Source](https://www.shapesource.com/)
+- [visioStencils from bhdicaire](https://github.com/bhdicaire/visioStencils)
+  About 2,600 visio 🎨 shapes, stencils, symbols, and icons collection to visually represent IT infrastructure by [Benoît H. Dicaire](https://www.linkedin.com/in/bhdicaire)
+- [Visio-Stencils from lm0ser](https://github.com/lm0ser/Visio-Stencils)
 - ...
 
 
