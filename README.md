@@ -3,8 +3,8 @@ Repo for user submitted stencils.
 
 Goto the [GitHub-Pages version](https://visio-resources.github.io/Shapes-n-stencils/) for a reading friendly overview.
 
-<p>There are various lists available of 3rd-party Visio stencils and add-ons, all of which seem to be totally out
-of date and full of dead links.</p>
+*There are various lists available of 3rd-party Visio stencils and add-ons, all of which seem to be totally out of date and full of dead links*.   
+This list based at acticle [Stuff about Visio](https://paulherber.co.uk/stuff-about-visio/) by [Paul Herber](https://paulherber.co.uk/contact5.php). All of the hyperlinks on the list worked in June 2022.
 
 ## Business  
 
